@@ -1,0 +1,23 @@
+Game design elements:
+1.characters-
+Player
+NPC's
+2.rules
+3.goal of the ganme
+4.balanced rules
+5.adaptiveness
+6.chance of skill
+7.feedback
+8.story
+___________________________________________________________
+
+
+Jebob is stranded on a very bigisland, on the other side however, 
+there is a dock for ships. Help Jebob find his way back to the dock so that he can get home!
+
+Playing character: Jebob(you)
+NPC's: Animals(lions, monke, and crocodile)
+Rules: Cannot enter the water
+follow waypoint for quickest, but hardest way to the dock
+How to escape from NPC's: follow the waypoint to cross barriers that stop the NPc.
+player should follow the path to reach the dock, once the dock is found, simply walk up to the edge and a ship will come and fetch you to take you home.
